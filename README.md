@@ -14,10 +14,10 @@ Linenum est un script qui effectue près de 65 contrôles et retourne plein d’
 
 
 git clone https://github.com/rebootuser/LinEnum
-Linuxprivchecker
-Linuxprivchecker quant à lui vérifie et liste la config de la machine (taches cron, version du noyau, points de montages, entrées fstab, liste les utilisateurs, sudoers, vérifie les permissions des fichiers…), à la fin il retourne une liste des exploits qui peuvent vous garantir des droits root.
 
 ######Linuxprivchecker
+Linuxprivchecker quant à lui vérifie et liste la config de la machine (taches cron, version du noyau, points de montages, entrées fstab, liste les utilisateurs, sudoers, vérifie les permissions des fichiers…), à la fin il retourne une liste des exploits qui peuvent vous garantir des droits root.
+
 
 wget http://www.securitysift.com/download/linuxprivchecker.py
 
@@ -25,9 +25,11 @@ wget http://www.securitysift.com/download/linuxprivchecker.py
 ######Linux Exploit Suggester
 Comme son l’indique, ce script check la version du noyau du système et va chercher sur tout les exploits affectant cette version. 
 
+
 git clone https://github.com/PenturaLabs/Linux_Exploit_Suggester.git
 
 ######Unix-Privesc-checker
-Ce script permet de trouver les mauvaises configurations et les permissions des fichiers qui peuvent vous garantir des droits d’administrateur ! Plus d’informations sur cette page [2]
+Ce script permet de trouver les mauvaises configurations et les permissions des fichiers qui peuvent vous garantir des droits d’administrateur !
+
 
 git clone https://github.com/pentestmonkey/unix-privesc-check.git
