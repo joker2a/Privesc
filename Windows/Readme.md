@@ -1,5 +1,7 @@
 # Windows - Privilege Escalation
 
+By https://github.com/swisskyrepo
+
 ## Summary
 
 * [Tools](#tools)
