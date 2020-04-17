@@ -1,7 +1,3 @@
-#TEST
-
-
-
 
 
 # Robber by https://github.com/MojtabaTajik
