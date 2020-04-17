@@ -1,4 +1,5 @@
 # Linux - Privilege Escalation
+By https://github.com/swisskyrepo
 
 ## Summary
 
