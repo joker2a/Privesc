@@ -439,7 +439,7 @@ find / -writable ! -user `whoami` -type f ! -path "/proc/*" ! -path "/sys/*" -ex
 find / -perm -2 -type f 2>/dev/null
 find / ! -path "*/proc/*" -perm -2 -type f -print 2>/dev/null
 ```
-## Writable /etc/sysconfig/network-scripts/ (Centos/Redhat)
+### Writable /etc/sysconfig/network-scripts/ (Centos/Redhat)
 
 /etc/sysconfig/network-scripts/ifcfg-1337 for example
 
