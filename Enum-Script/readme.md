@@ -1,5 +1,9 @@
 # Privesc
 
+Le top :
+
+Windows : Winpeas
+Linux : Linpeas
 
 
 #4 scripts pour élévation de privilèges lors de vos pentests
